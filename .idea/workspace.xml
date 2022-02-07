@@ -19,7 +19,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../bootstrap-5.1.3-examples" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../high-creativity.github.io" />
   </component>
   <component name="RunManager">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/qrcodi.github.io/index.html" useBuiltInWebServerPort="true">
@@ -40,6 +40,8 @@
       <option name="presentableId" value="Default" />
       <updated>1643811347601</updated>
       <workItem from="1643811348765" duration="3258000" />
+      <workItem from="1644079655564" duration="2212000" />
+      <workItem from="1644256454112" duration="1399000" />
     </task>
     <servers />
   </component>

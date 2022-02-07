@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+}
+
+.navbar-brand {
+    margin-left: 5%;
+}
+
+.collapse {
+    margin-right: 5%;
+}
+
+.nav-item {
+    margin-right: 5%;
+}
