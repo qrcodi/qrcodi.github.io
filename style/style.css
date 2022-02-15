@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background: linear-gradient(45deg, rgba(35,70,191,1) 0%, rgba(5,11,30,1) 100%);
 }
 
 .navbar-brand {
@@ -12,4 +12,25 @@ body {
 
 .nav-item {
     margin-right: 5%;
+}
+
+h1 {
+    color: white;
+    font-size: 1050%;
+}
+
+h2 {
+    color: white;
+}
+
+.circle {
+    border-radius: 100%;
+    width: 64px;
+    height: 64px;
+    padding: 10px;
+    background: #2f5cfa;
+    border: 3px solid #2f5cfa;
+    color: white;
+    text-align: center;
+    font: 32px Arial, sans-serif;
 }
