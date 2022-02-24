@@ -17,10 +17,14 @@ body {
 
 h1 {
     color: white;
-    font-size: 700%;
+    font-size: 600%;
 }
 
 h2 {
+    color: white;
+}
+
+h3 {
     color: white;
 }
 
