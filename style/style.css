@@ -40,6 +40,16 @@ h3 {
     font: 32px Arial, sans-serif;
 }
 
+.silver {
+    text-align: center;
+    color: #C0C0C0;
+}
+
+.gold {
+    text-align: center;
+    color: #FFD700;
+}
+
 .sn-icons {
     width: 10%;
 }
