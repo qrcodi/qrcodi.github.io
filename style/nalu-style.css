@@ -1,0 +1,32 @@
+
+
+.items-container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.item {
+    width: 45%;
+    min-width : 450px;
+    margin-top: 1%;
+    position: relative;
+    z-index: 0;
+}
+
+.text-centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 100;
+    font-size: 100px;
+}
+
+.first-txt {
+            position: absolute;
+            top: 60px;
+            left: -500px;
+}
+
+

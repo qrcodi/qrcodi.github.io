@@ -26,12 +26,13 @@ def main():
                 print('Created file ' + root_folder + '/' + 'index.html')
             if dir == 'pages':
                 shutil.copy2('menu_template.html', root_folder + '/pages/menu.html') # complete target filename given
-            	#file = open(root_folder + '/pages/menu.html', 'w+')
+                file = open(root_folder + '/pages/menu.html', 'w+')
 
         except OSError:
             pass
-    url = 'https://www.codinha.dev/' + root_folder + '/pages/menu.html'
-    new_url = 'https://www.qrcodi.com/' + root_folder + '/pages/menu.html'
+    
+    url = 'https://www.qrcodi.com/' + root_folder + '/pages/menu2.html'
+	
 
 def createQRCode():
     qr = qrcode.QRCode(
